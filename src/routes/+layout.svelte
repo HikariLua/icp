@@ -6,8 +6,10 @@
 	<nav class="navbar">
 		<div class="container-fluid">
 			<div>
-				<a href="/"><img src="/logo.png" class="img-fluid nav-logo" alt="ICP" /></a>
 				<ul>
+					<li>
+						<a href="/"><img src="/logo.png" class="img-fluid nav-logo" alt="ICP" /></a>
+					</li>
 					<li>
 						<LinkButton href="/sobre" title="SOBRE" />
 					</li>
@@ -88,6 +90,17 @@
 	main {
 		background-color: #f8e830;
 		flex: 1;
+	}
+
+	ul {
+		display: flex;
+		list-style: none;
+		padding: 0;
+		margin: 0;
+	}
+
+	li {
+		margin: 5px; /* Adjust spacing between items as needed */
 	}
 
 	.footer {
