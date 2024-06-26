@@ -19,7 +19,7 @@
 		text-decoration: none;
 		width: 393px;
 		height: 216px;
-		background-color: white;
+		background-color: black;
 		border-radius: 12px;
 		margin: 15px 5px;
 		overflow: hidden;

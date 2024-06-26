@@ -5,7 +5,7 @@
 <div class="wrapper">
 	<nav class="navbar">
 		<div class="container-fluid">
-			<div>
+			<div class="links">
 				<ul>
 					<li>
 						<a href="/"><img src="/logo.png" class="img-fluid nav-logo" alt="ICP" /></a>
@@ -22,6 +22,9 @@
 				</ul>
 			</div>
 			<div>
+				<button class="btn">
+					<img src="/moon-sun.svg" class="img-fluid flag" alt="Modo Escuro" />
+				</button>
 				<button class="btn"><img src="/brazil.svg" class="img-fluid flag" alt="Portugês" /></button>
 				<button class="btn"><img src="/usa.svg" class="img-fluid flag" alt="English" /></button>
 			</div>
@@ -92,14 +95,14 @@
 		flex: 1;
 	}
 
-	ul {
+	.links ul {
 		display: flex;
 		list-style: none;
 		padding: 0;
 		margin: 0;
 	}
 
-	li {
+	.links li {
 		margin: 5px; /* Adjust spacing between items as needed */
 	}
 

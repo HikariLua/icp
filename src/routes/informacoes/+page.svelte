@@ -1,6 +1,5 @@
 <script>
 	import InfoCard from '$lib/components/InfoCard.svelte';
-	import LinkButton from '$lib/components/LinkButton.svelte';
 	import { articles } from '$lib/data';
 </script>
 
