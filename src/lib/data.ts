@@ -8,15 +8,15 @@ interface article {
 const main_articles: Array<article> = [
 	{
 		title: 'Ancestralidade',
-		cover: default_image,
+		cover: 'https://i.imgur.com/VI6etsj.jpeg',
 	},
 	{
 		title: 'Cultura',
-		cover: default_image,
+		cover: 'https://i.imgur.com/j516tW2.jpeg',
 	},
 	{
 		title: 'Infância',
-		cover: default_image,
+		cover: 'https://i.imgur.com/0toBqmc.jpeg',
 	},
 ];
 
@@ -24,19 +24,19 @@ const main_articles: Array<article> = [
 const articles: Array<article> = [
 	{
 		title: 'Afrocentricidade',
-		cover: default_image,
+		cover: 'https://i.imgur.com/5SCpISj.jpeg',
 	},
 	{
 		title: 'Lesgislação',
-		cover: default_image,
+		cover: 'https://i.imgur.com/5zGx3ab.jpeg',
 	},
 	{
 		title: 'Literatura',
-		cover: default_image,
+		cover: 'https://i.imgur.com/JoXzUTP.jpeg',
 	},
 	{
 		title: 'Paternidade',
-		cover: default_image,
+		cover: 'https://i.imgur.com/5Ruewb4.jpeg',
 	},
 	{
 		title: 'Saúde',
@@ -44,7 +44,7 @@ const articles: Array<article> = [
 	},
 	{
 		title: 'Religiosidade',
-		cover: default_image,
+		cover: 'https://i.imgur.com/IZoEdKp.jpeg',
 	},
 ];
 

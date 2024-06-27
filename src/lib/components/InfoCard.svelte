@@ -20,7 +20,7 @@
 		width: 393px;
 		height: 216px;
 		background-color: black;
-		border-radius: 12px;
+		border-radius: 20px;
 		margin: 15px 5px;
 		overflow: hidden;
 		box-shadow: 1px 2px 4px 1px rgba(0, 0, 0, 0.6); /* Adjusted for sharper shadow */
@@ -46,7 +46,7 @@
 	}
 
 	.background-image {
-		opacity: 0.8;
+		opacity: 1;
 		position: absolute;
 		top: 0;
 		left: 0;

@@ -64,10 +64,6 @@
 		margin: 10px auto;
 	}
 
-	.form {
-		margin: 0 200px;
-	}
-
 	.form-control {
 		font-family: 'Roboto', sans-serif;
 		font-weight: 400;
