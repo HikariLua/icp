@@ -44,19 +44,19 @@
     <path
        id="path5"
        d="m 199.03,289.08701 c -1.232,0.643 -2.491,1.264 -3.763,1.85699 C 134.73599,319.17001 55.718994,277.86401 18.796997,198.683 -18.125,119.50198 1.022,32.422001 61.554001,4.1960001 62.826,3.6030002 64.111,3.0380001 65.396004,2.507 7.8369999,32.546001 -9.7449999,117.621 26.400999,195.13699 62.546997,272.65298 139.02,313.87 199.03,289.08701 Z"
-       style="fill:#ffeb5b;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#ffeb5b;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1;stroke-width:4.57066314;stroke-dasharray:none;paint-order:stroke markers fill;stroke-linejoin:round"
        transform="matrix(3.2817995,0,0,3.2817995,130.06838,38.213317)"
        clip-path="url(#clipPath6)" />
     <path
        id="path7"
        d="m 255.211,194.778 c -4.48399,37.321 -22.68201,68.153 -52.556,82.084 C 148.498,302.116 76.492996,262.30499 41.819992,187.948 7.1469879,113.591 22.934,32.841 77.091003,7.5869999 106.965,-6.3439999 142.28101,-0.46500015 173.75301,20.089001 148.142,6.5540009 120.602,3.7380009 96.879005,14.801001 85.583,20.068001 76.139,28.028999 68.682999,37.990002 66.055,41.479 63.688999,45.237003 61.558998,49.209 43.721001,82.528 43.737999,131.144 65.153,177.067 c 21.408005,45.909 58.645,77.18599 95.63499,84.93901 4.41201,0.92099 8.812,1.52399 13.174,1.754 12.423,0.69101 24.592,-1.426 35.88701,-6.69299 23.72301,-11.06302 39.268,-33.96901 45.362,-62.28902 z"
-       style="fill:#ffde59;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#ffde59;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1;stroke-width:4.57066314;stroke-dasharray:none;paint-order:stroke markers fill;stroke-linejoin:round"
        transform="matrix(3.2817995,0,0,3.2817995,130.06838,38.213317)"
        clip-path="url(#clipPath8)" />
     <path
        id="path9"
        d="m 232,99.262001 c 29.48401,63.228999 13.87601,132.900989 -34.843,155.619009 -1.30001,0.606 -2.60601,1.164 -3.931,1.67999 45.696,-24.49099 59.697,-92.136 31.00099,-153.67399 C 195.53098,41.349014 134.713,8.592 86.579002,27.855 c 1.247002,-0.684 2.514,-1.325001 3.814003,-1.932 C 139.11099,3.2060001 202.515,36.033001 232,99.262001 Z"
-       style="fill:#f8e730;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#f8e730;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1;stroke-width:4.57066314;stroke-dasharray:none;paint-order:stroke markers fill;stroke-linejoin:round"
        transform="matrix(3.2817995,0,0,3.2817995,130.06838,38.213317)"
        clip-path="url(#clipPath10)" />
     <g
@@ -64,44 +64,22 @@
        transform="matrix(2.1893377,0,0,2.1893377,-652.76205,-630.57633)">
       <g
          id="g11" />
-      <text
-         id="text11"
-         xml:space="preserve"
-         transform="matrix(1.244855,0,0,1.244855,484.00781,432.22174)"><tspan
-           style="font-variant:normal;font-weight:700;font-size:74.23px;font-family:'Amatic SC';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           x="0 21.375 48.09375 69.988281 88.988281 111.17969"
-           y="0"
-           id="tspan11">Portal</tspan></text>
       <g
          id="g12" />
-      <text
-         id="text12"
-         xml:space="preserve"
-         transform="matrix(1.244855,0,0,1.244855,535.80545,514.38217)"><tspan
-           style="font-variant:normal;font-weight:700;font-size:74.23px;font-family:'Amatic SC';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           x="0 25.679688"
-           y="0"
-           id="tspan12">da</tspan></text>
       <g
          id="g13" />
       <text
          id="text13"
          xml:space="preserve"
-         transform="matrix(1.244855,0,0,1.244855,463.3121,596.5426)"><tspan
-           style="font-variant:normal;font-weight:700;font-size:74.23px;font-family:'Amatic SC';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           x="0 25.011719 46.90625 63.679688 85.871094 121.42188 142.12891"
-           y="0"
-           id="tspan13">Criança</tspan></text>
+         x="392.72266"
+         y="658.75604"
+         style="font-size:53.5634px;stroke-width:4.46361;stroke:none;stroke-opacity:1"><tspan
+           style="font-variant:normal;font-weight:700;font-size:331.334px;font-family:'Amatic SC';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.46361;stroke-opacity:1"
+           id="tspan13"
+           x="392.72266"
+           y="658.75604">PCP</tspan></text>
       <g
          id="g14" />
-      <text
-         id="text14"
-         xml:space="preserve"
-         transform="matrix(1.244855,0,0,1.244855,499.89916,678.70303)"><tspan
-           style="font-variant:normal;font-weight:700;font-size:74.23px;font-family:'Amatic SC';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           x="0 21.375 43.269531 64.347656 83.347656"
-           y="0"
-           id="tspan14">Preta</tspan></text>
     </g>
   </g>
 </svg>

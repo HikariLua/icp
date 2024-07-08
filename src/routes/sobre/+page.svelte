@@ -7,11 +7,11 @@
 		<div class="about-text">
 			<p class="about-title">SOBRE NÓS</p>
 			<p class="about-body">
-				O Instituto da Criança Preta tem o propósito de, por meio de informações e acolhimento,
-				ajudar mães e famílias a proteger crianças negras que sofrem desde muito cedo com o processo
-				de auto-ódio imposto pelo racismo estrutural brasileiro. O Instituto pretende tornar-se um
-				grande repositório qualificado e seguro de informações relativas à infância preta que – não
-				deveria – mas é diferenciada por conta dos desafios enfrentados sistematicamente.
+				O Portal da Criança Preta tem o propósito de, por meio de informações e acolhimento, ajudar
+				mães e famílias a proteger crianças negras que sofrem desde muito cedo com o processo de
+				auto-ódio imposto pelo racismo estrutural brasileiro. O Portal pretende tornar-se um grande
+				repositório qualificado e seguro de informações relativas à infância preta que – não deveria
+				– mas é diferenciada por conta dos desafios enfrentados sistematicamente.
 			</p>
 		</div>
 		<div class="about-profile">

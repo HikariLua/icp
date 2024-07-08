@@ -10,7 +10,11 @@
 	<div class="row justify-content-center">
 		{#each articles as article}
 			<div class="col-12 col-md-6 col-lg-4 d-flex justify-content-center mb-4">
-				<InfoCard href="#" title={article.title} img={article.cover} />
+				<InfoCard
+					href={`/informacoes/${article.title}`}
+					title={article.title}
+					img={article.cover}
+				/>
 			</div>
 		{/each}
 	</div>

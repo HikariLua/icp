@@ -8,7 +8,7 @@
 			<div class="links">
 				<ul>
 					<li>
-						<a href="/"><img src="/logo.png" class="img-fluid nav-logo" alt="ICP" /></a>
+						<a href="/"><img src="/pcp.svg" class="img-fluid nav-logo" alt="ICP" /></a>
 					</li>
 					<li>
 						<LinkButton href="/sobre" title="SOBRE" />
@@ -21,12 +21,35 @@
 					</li>
 				</ul>
 			</div>
-			<div>
+			<div class="buttons d-flex justify-content-center align-items-center">
 				<button class="btn">
 					<img src="/moon-sun.svg" class="img-fluid flag" alt="Modo Escuro" />
 				</button>
-				<button class="btn"><img src="/brazil.svg" class="img-fluid flag" alt="Portugês" /></button>
-				<button class="btn"><img src="/usa.svg" class="img-fluid flag" alt="English" /></button>
+				<!-- <button class="btn"><img src="/brazil.svg" class="img-fluid flag" alt="Portugês" /></button> -->
+				<!-- <button class="btn"><img src="/usa.svg" class="img-fluid flag" alt="English" /></button> -->
+				<div class="user-container d-flex justify-content-center align-items-center">
+					<div class="d-flex align-items-center">
+						<img
+							src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.S171c9HYsokHyCPs9brbPwHaGP%26pid%3DApi&f=1&ipt=8caa9458bc5da3ba0bc074735564eab7bebb383a97c4f80e6f66fbd0907a6f8e&ipo=images"
+							class="user-icon img-fluid"
+							alt=""
+						/>
+
+						<h6>Usuário</h6>
+					</div>
+
+					<div class="settings-button">
+						<a href="/acolhimento/usuario">
+							<img src="/gear.svg" alt="Configurar Perfil" />
+						</a>
+					</div>
+
+					<div class="logout-button">
+						<a href="">
+							<img src="/exit.svg" alt="Sair" />
+						</a>
+					</div>
+				</div>
 			</div>
 		</div>
 	</nav>
@@ -38,34 +61,42 @@
 	<footer class="footer">
 		<div class="footer-content">
 			<div class="footer-section social-media">
-				<h4>Instituto da Criança Preta</h4>
+				<h4>Portal da Criança Preta</h4>
 				<ul class="social-links">
 					<li><a href=""><img src="/whatsapp.svg" class="img-fluid" alt="Whatsapp" /></a></li>
 					<li><a href=""><img src="/instagram.svg" class="img-fluid" alt="Instagram" /></a></li>
 					<li><a href=""><img src="/linkedin.svg" class="img-fluid" alt="Linkedin" /></a></li>
 				</ul>
 			</div>
-			<div class="footer-section info">
+			<div class="footer-section info info-text">
 				<p>Proteja sua criança com informação e acolhimento.</p>
-				<p>Email de contato: contact@example.com</p>
+				<p>Email de contato: gc.vanna@gmail.com</p>
 			</div>
 			<div class="footer-section social-media">
-				<h4>Desenvolvedores do Site</h4>
+				<a
+					href="https://linktr.ee/desenvolvedoresdosite?utm_source=linktree_profile_share&ltsid=4b918cee-0e9d-4c35-98a0-c5d3cc11d5ac"
+				>
+					<h4>Desenvolvedores do Site</h4>
+				</a>
 				<ul class="social-links">
-					<li><a href=""><img src="/github.svg" class="img-fluid" alt="Github" /></a></li>
-					<li><a href=""><img src="/instagram.svg" class="img-fluid" alt="Instagram" /></a></li>
-					<li><a href=""><img src="/linkedin.svg" class="img-fluid" alt="Linkedin" /></a></li>
+					<li>
+						<a
+							href="https://linktr.ee/desenvolvedoresdosite?utm_source=linktree_profile_share&ltsid=4b918cee-0e9d-4c35-98a0-c5d3cc11d5ac"
+							><img src="/linktree.png" alt="Acessar Linktree" /></a
+						>
+					</li>
 				</ul>
 			</div>
 		</div>
 		<div class="footer-bottom">
-			<p>&copy; 2024 Instituto da Criança Preta. Todos os direitos reservados.</p>
+			<p>&copy; 2024 Portal da Criança Preta. Todos os direitos reservados.</p>
 		</div>
 	</footer>
 </div>
 
 <style>
 	@import url('https://fonts.googleapis.com/css2?family=Just+Me+Again+Down+Here&display=swap');
+	@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Just+Me+Again+Down+Here&display=swap');
 
 	* {
 		font-family: 'Just Me Again Down Here', cursive;
@@ -93,6 +124,18 @@
 	main {
 		background-color: #f8e830;
 		flex: 1;
+	}
+
+	.info-text {
+		font-size: 14pt;
+	}
+
+	.buttons {
+		display: flex;
+	}
+
+	.buttons button img {
+		min-height: 40px;
 	}
 
 	.links ul {
@@ -145,6 +188,10 @@
 		padding: 0;
 	}
 
+	.social-media a {
+		text-decoration: none;
+	}
+
 	.footer-section .social-links img {
 		max-width: 44px;
 	}
@@ -174,9 +221,11 @@
 	}
 
 	.nav-logo {
-		max-height: 50px;
+		max-height: 55px;
 		margin: 5px;
 		margin-right: 30px;
+		background-color: #f8e830;
+		border-radius: 50%;
 	}
 
 	.flag {
@@ -186,5 +235,37 @@
 	.img-fluid {
 		max-width: 100%;
 		height: auto;
+	}
+
+	.user-container {
+		width: 100%;
+		margin: 15px;
+		color: #fff;
+	}
+	h6 {
+		margin: 0;
+		font-size: 24px;
+	}
+	.user-icon {
+		width: 3rem;
+		height: 3rem;
+		background-color: #000000;
+		border: 2px solid;
+		border-radius: 50%;
+		margin-right: 1rem;
+	}
+
+	.settings-button {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		margin-left: 1rem;
+	}
+
+	.logout-button {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		margin-left: 1rem;
 	}
 </style>
